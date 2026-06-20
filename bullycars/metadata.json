@@ -1,0 +1,6 @@
+{
+  "name": "BullyCars",
+  "description": "Premium Automotive Service, Detail Studio, and Technical Assistant Vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
